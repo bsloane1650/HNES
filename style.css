@@ -449,8 +449,9 @@ br {
 
 /*usernames are usually black*/
 #item-body .comhead a.commenter,
+
 #threads-body .comhead a.commenter {
-  color: #000 !important;
+ /* color: #000 !important; */
 }
 /*but new users are green*/
 a.new_user,
